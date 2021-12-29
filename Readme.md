@@ -1,5 +1,5 @@
 
 
-[Short CV](mauriziopassariello.github.io/MPshortCV.pdf)
+[Short CV](MPshortCV.pdf)
 
-[List of publications](mauriziopassariello.github.io/Publications.pdf)
+[List of publications](Publications.pdf)
