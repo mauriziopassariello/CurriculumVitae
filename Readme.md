@@ -1,4 +1,4 @@
-# Maurizio Passariello Curriculum Vitae
+
 
 [Short CV](mauriziopassariello.github.io/MPshortCV.pdf)
 
